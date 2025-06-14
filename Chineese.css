@@ -1,0 +1,138 @@
+header{
+    background-color: grey;
+    padding: 45px;
+    text-align: center;
+}
+.welcome-box {
+  padding: 5px;
+  text-align: center;
+  font-family: 'Times New Roman', serif;
+  font-size: 35px;
+  color: white;
+  height: 25px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+    .options {
+      display: none;
+      margin-top: 10px;
+    }
+.logo{
+  text-align: left;
+  top: -150px;
+  position: relative;
+}
+.home{
+  text-align: center;
+}
+.var{
+  text-align: left;
+}
+a{
+  color: red;
+  font-size: 20px;
+}
+.fake{
+text-align: center;
+font-size: 35px;
+color: black;
+font-style: bold;
+}
+.hyperlink{
+  display: flex;
+  background-color: red;
+}
+header{
+    background-color: grey;
+    text-align: left;
+}
+footer{
+  margin: 45px;
+  padding: 45px;
+  background-color: white;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+.header {
+      background-color: #777;
+      padding: 20px;
+      color: red;
+      text-align: center;
+    }  
+.header {
+      background-color: #777;
+      height: 100px;
+      color: white;
+      position: relative;
+      text-align: center;
+}
+.header{
+    padding: 40px;
+    background-color: grey;
+
+}
+b{
+  font-size: 28px;
+  color:white;
+}
+.violet{
+    text-align: center;
+}
+.car6{
+  text-align: left;
+}
+.car3{
+    text-align: center;
+}
+.black{
+  font-size: 35px;
+}
+.colour{
+    color: white;
+    font-style: italic;
+    font-size: 20px;
+}
+.red{
+  font-size: 45px;
+  font-style: italic;
+  text-align: right;
+  padding: 25px;
+}
+.car{
+    padding:10px;
+    margin:65px;
+    border: red;
+    background-color: grey;
+    text-align: left; 
+}
+.leg{
+  font-size: 50px;
+}
+    .main-offer {
+      display: inline-block;
+      padding: 15px 30px;
+      border: 2px solid red;
+      background-color: lightgray;
+      color: red;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    .link-box a:hover {
+      text-decoration: underline;
+    }
+.red{
+    text-align: left;  
+}
+.image{
+    padding: 45px;
+    background-color: white;
+    color: white;
+}
+.fake{
+    font-size: 30px;
+    color: white;
+}
